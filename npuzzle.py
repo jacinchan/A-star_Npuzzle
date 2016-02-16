@@ -1,3 +1,5 @@
+# author: jacin
+# date: Feb,2016
 import math
 from queue import PriorityQueue as pq
 from time import time
